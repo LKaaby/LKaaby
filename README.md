@@ -6,7 +6,7 @@ I’m a 3rd‑year Computer Science student at ISI Ariana, passionate about **so
 - I’m always learning — from low‑level security challenges to full‑stack development with modern web stacks.  
 - I enjoy contributing to open source, solving problems, and building tools that automate or simplify security workflows.  
 - I love mentoring others: teaching problem‑solving, Linux fundamentals, and sharing cybersecurity knowledge through club events.  
-- You can reach me through [LinkedIn](https://www.linkedin.com/in/amir-kaabi-918573237) or [Email me](mailto:amirkaabi17@gmail.com)
+- You can reach me through [LinkedIn](https://www.linkedin.com/in/amir-kaabi-918573237) or [Email me](mailto:amirkaabi17@gmail.com) (amirkaabi17@gmail.com)
 ---
 
 ##  Tech Stack & Tools
