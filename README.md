@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Amir Kaabi (LKaaby)👋
 
-<!--
-**LKaaby/LKaaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 3rd‑year Computer Science student at ISI Ariana, passionate about **software engineering**, **cybersecurity**, and exploring how systems work — whether by building, securing, or breaking them.  
 
-Here are some ideas to get you started:
+- I’m currently working on building secure, scalable web applications and exploring cutting‑edge security tooling.  
+- I’m always learning — from low‑level security challenges to full‑stack development with modern web stacks.  
+- I enjoy contributing to open source, solving problems, and building tools that automate or simplify security workflows.  
+- I love mentoring others: teaching problem‑solving, Linux fundamentals, and sharing cybersecurity knowledge through club events.  
+- You can reach me through [LinkedIn](https://www.linkedin.com/in/amir-kaabi-918573237) or by email [gmail](amirkaabi17@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tech Stack & Tools
+
+| 🔧 Languages & Frameworks |  Tools & Tech |
+|--------------------------|----------------|
+| Python · JavaScript · SQL | FastAPI · React · Tailwind CSS · Next.js · Prisma · Zod |
+| Linux / Bash / Shell scripting | Git · Docker · JWT · PostgreSQL · HTTP / Web APIs |
+| Cybersecurity & Networking basics | Wireshark / PCAP analysis · Vulnerability & threat detection |
+
+---
+
+
+## What I’m Looking For / Open To
+
+- Internship or junior‑level roles in web development or cybersecurity.  
+- Collaborations on open‑source security tools, web applications, or DevSecOps projects.  
+- Sharing knowledge: mentoring, teaching, organizing or participating in coding / security competitions.  
+
+---
+
+Thanks for stopping by — feel free to browse my repos or reach out! 
+
